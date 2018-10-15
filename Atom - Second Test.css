@@ -1,0 +1,20 @@
+html body {
+  background-color: bisque;
+}
+
+.img_H1_H6 {
+  border: 27px solid black;
+}
+
+.img_H4 {
+  border: 3px solid black;
+}
+
+p {
+  text-align: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.main_header {
+  color: red;
+}
